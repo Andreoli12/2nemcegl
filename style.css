@@ -32,6 +32,7 @@
       color: #06135f;
       display: flex;
       justify-content: center;
+      align-items: center;
   }
 
   .escola-div-conteudo{
