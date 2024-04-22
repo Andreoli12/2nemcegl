@@ -2,6 +2,7 @@
       background-color: rgb(238, 129, 238);
       color: greenyellow;
       display: flex;
+      justify-content: space-around;
 }
 
 .cabecalho-imagem{
