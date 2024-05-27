@@ -69,3 +69,8 @@ body{
   .rodape{
     background-color:#4cda77;
   }
+
+  .rodape-imagem{
+    height: 60px;
+    text-align: center;
+  }
